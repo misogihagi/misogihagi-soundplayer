@@ -1,4 +1,5 @@
 @module external styles: {..} = "../styles/Home.module.css"
+
 module Head = Next.Head
 module Image = Next.Image
 
